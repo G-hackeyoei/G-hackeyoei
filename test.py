@@ -8,7 +8,7 @@ while True:
         if res == num:
             print('挑战成功！')
         else:
-            print('挑战失败！')
+            print('挑战失败！答案：' + str(num))
     if choice == '3':
         num = random.randint(10, 99)
         print('3√' + str(num ** 3) + '=', end=' ')
@@ -16,4 +16,4 @@ while True:
         if res == num:
             print('挑战成功！')
         else:
-            print('挑战失败！')
+            print('挑战失败！答案：' + str(num))
