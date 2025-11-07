@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @G-hackeyoei
-- 👀 I’m interested in Minecraft and coding.
-- 🌱 I’m currently learning flask
-- 💞️ I’m looking to collaborate on #seriously, WHAT DOEZ COLLABORATE MEAN?#
-- 📫 How to reach me #NO WAY!#
+- 👋 Hi, I’m @GEJ_CaCO3III, meet me in bilibili(same ID)
+- 👀 I’m interested in Astronomy, and planning to upload sth about it.
+- 🌱 I’m currently learning manim
+- 💞️ I’m looking to collaborate on public education
+- 📫 How to reach me : just text me on bilibili
 
 <!---
 G-hackeyoei/G-hackeyoei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
